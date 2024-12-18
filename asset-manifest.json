@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wealth-creativity-assessment/static/css/main.7586237b.css",
+    "main.js": "/wealth-creativity-assessment/static/js/main.993bbf90.js",
+    "index.html": "/wealth-creativity-assessment/index.html",
+    "main.7586237b.css.map": "/wealth-creativity-assessment/static/css/main.7586237b.css.map",
+    "main.993bbf90.js.map": "/wealth-creativity-assessment/static/js/main.993bbf90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7586237b.css",
+    "static/js/main.993bbf90.js"
+  ]
+}
