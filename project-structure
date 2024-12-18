@@ -1,0 +1,22 @@
+wealth-creativity-assessment/
+├── public/
+│   ├── index.html
+│   └── assets/
+├── src/
+│   ├── components/
+│   │   ├── QuestionCard.jsx      # 问题展示组件
+│   │   ├── ProgressBar.jsx       # 进度条组件
+│   │   ├── AnswerOptions.jsx     # 答案选项组件
+│   │   └── ResultDisplay.jsx     # 结果展示组件
+│   ├── data/
+│   │   └── questions.json        # 问题库配置
+│   ├── utils/
+│   │   ├── calculator.js         # 评分计算逻辑
+│   │   └── constants.js          # 常量配置
+│   ├── styles/
+│   │   └── index.css             # 样式文件
+│   ├── App.jsx
+│   └── index.js
+├── package.json
+├── tailwind.config.js
+└── postcss.config.js 

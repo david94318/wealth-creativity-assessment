@@ -1,0 +1,442 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "category": "SWV",
+      "text": "我认为自己是一个有能力的人，无论面对什么挑战，都能够找到解决方法。",
+      "isReverse": false,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "SWV",
+      "text": "我觉得自己值得拥有丰盛的生活，包括财富、健康和幸福。",
+      "isReverse": false,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 3,
+      "category": "SWV",
+      "text": "当我取得成功时，我会觉得这是理所当然的，因为我付出了努力。",
+      "isReverse": false,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 4,
+      "category": "SWV",
+      "text": "我相信自己能够为他人和社会创造价值，并因此获得回报。",
+      "isReverse": false,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 5,
+      "category": "SWV",
+      "text": "我经常觉得自己不够好，不值得拥有更多的财富或成功。",
+      "isReverse": true,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 6,
+      "category": "SWV",
+      "text": "我在与他人比较时，常常觉得自己不如他们优秀。",
+      "isReverse": true,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 7,
+      "category": "SWV",
+      "text": "我觉得我的能力不足以让我实现更高的财务目标。",
+      "isReverse": true,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 8,
+      "category": "SWV",
+      "text": "我相信我的价值不会因为金钱的多少而改变。",
+      "isReverse": false,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 9,
+      "category": "IM",
+      "text": "我会因为热爱或兴趣而主动采取行动，而不仅仅是为了金钱回报。",
+      "isReverse": false,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 10,
+      "category": "IM",
+      "text": "我觉得我的工作���事业与我的使命感或人生目标是一致的。",
+      "isReverse": false,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 11,
+      "category": "IM",
+      "text": "我愿意花时间和精力去学习新技能或知识，以实现我的财务目标。",
+      "isReverse": false,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 12,
+      "category": "IM",
+      "text": "我会主动寻找机会提升自己，而不是等待他人提供。",
+      "isReverse": false,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 13,
+      "category": "IM",
+      "text": "如果没有外部奖励（如金钱或他人认可），我会很难坚持做某件事。",
+      "isReverse": true,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 14,
+      "category": "IM",
+      "text": "当事情变得困难或复杂时，我依然会坚持下去，因为我相信自己的目标。",
+      "isReverse": false,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 15,
+      "category": "IM",
+      "text": "我经常感到缺乏动力，无法主动采取行动实现我的财务或人生目标。",
+      "isReverse": true,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 16,
+      "category": "IM",
+      "text": "我觉得自己能够从失败中汲取经验，而不会因此失去动力。",
+      "isReverse": false,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 17,
+      "category": "T",
+      "text": "我相信自己有能力吸引财富，并将其转化为丰盛的生活。",
+      "isReverse": false,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 18,
+      "category": "T",
+      "text": "我相信金钱是一种流动的能量，只要我付出价值，就会有回报。",
+      "isReverse": false,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 19,
+      "category": "T",
+      "text": "我相信宇宙会以某种方式支持我实现我的财务目标。",
+      "isReverse": false,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 20,
+      "category": "T",
+      "text": "当我面对财务上的不确定性时，我依然能够保持信心和乐观。",
+      "isReverse": false,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 21,
+      "category": "T",
+      "text": "我觉得世界的资源是有限的，所以我必须非常努力才能获得财富。",
+      "isReverse": true,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 22,
+      "category": "T",
+      "text": "我相信自己有能力管理好金钱，并让它为我创造更多的价值。",
+      "isReverse": false,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 23,
+      "category": "T",
+      "text": "我经常感到怀疑，认为即使努力了，我也未必能获得想要的财富。",
+      "isReverse": true,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 24,
+      "category": "T",
+      "text": "我相信只要我愿意学习和成长，我的财务状况就会持续改善。",
+      "isReverse": false,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 25,
+      "category": "SR",
+      "text": "我小时候经常听到父母或长辈说\"有钱人都是不道德的\"或\"钱是肮脏的\"。",
+      "isReverse": true,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 26,
+      "category": "SR",
+      "text": "在我的成长过程中，家人对金钱的态度更多是焦虑和担忧，而不是轻松和乐观。",
+      "isReverse": true,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 27,
+      "category": "SR",
+      "text": "我的父母或监护人通常会因为金钱问题而争吵或产生矛盾。",
+      "isReverse": true,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 28,
+      "category": "SR",
+      "text": "在我的成长环境中，\"努力工作\"比\"聪明赚钱\"更被强调。",
+      "isReverse": true,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 29,
+      "category": "SR",
+      "text": "我小时候如果提出想要某些东西，家人通常会说\"我们买不起\"或\"不要浪费钱\"。",
+      "isReverse": true,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 30,
+      "category": "SR",
+      "text": "我觉得自己需要避免变得太富有，以免被家人或朋友嫉妒或疏远。",
+      "isReverse": true,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 31,
+      "category": "SR",
+      "text": "在我的家庭中，金钱通常被视为一种压力来源，而不是一种工具或资源。",
+      "isReverse": true,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    },
+    {
+      "id": 32,
+      "category": "SR",
+      "text": "我觉得如果我比父母或长辈更富有，会让我感到内疚或不安。",
+      "isReverse": true,
+      "options": [
+        { "text": "完全不同意", "value": 1, "score": 1 },
+        { "text": "不太同意", "value": 2, "score": 2 },
+        { "text": "中立/偶尔同意", "value": 3, "score": 3 },
+        { "text": "比较同意", "value": 4, "score": 4 },
+        { "text": "完全同意", "value": 5, "score": 5 }
+      ]
+    }
+  ],
+  "categories": {
+    "SWV": {
+      "name": "自我价值感",
+      "description": "个体对自己价值的认可程度，包括对自己能力、配得感和丰盛感的信任。",
+      "maxScore": 40
+    },
+    "IM": {
+      "name": "内在动力",
+      "description": "个体基于内心热爱、兴趣或使命感而采取行动的驱动力。",
+      "maxScore": 40
+    },
+    "T": {
+      "name": "信任感",
+      "description": "对自己、对金钱流动以及对宇宙支持的信任程度。",
+      "maxScore": 40
+    },
+    "SR": {
+      "name": "潜意识阻力",
+      "description": "个体潜意识中存在的负面信念、情绪或模式，这些会阻碍金钱的流动。",
+      "maxScore": 40
+    }
+  }
+} 
